@@ -1,0 +1,49 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	background: #005AA3;
+
+}
+
+
+.intro{
+	height: 30px;
+	width: 100%;
+	background: #004E8E;
+	border-bottom: 1px solid #378CCD;
+}
+
+.introtext {
+	font-size: 12px;
+	text-align: center;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+
+.content{
+	width: 85%;
+	height: 1000px;
+	margin-top: 20px;
+	background: #fff;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.content img {
+	width: 316px;
+	height: 71px;
+	padding: 20px;
+}
+
+.header{
+	width: 90%;
+	height: 
+}
+
+.mainimage img {
+	width: 85%;
+	height: 10%;
+	margin: 5%;
+}
